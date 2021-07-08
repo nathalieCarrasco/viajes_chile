@@ -48,3 +48,11 @@ hr{
     height: 2px;
     width: 100%;
 }
+
+#destacados{
+    background-color: black;
+}
+
+.card-body{
+    background-color: #47dde5;
+}
