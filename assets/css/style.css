@@ -6,3 +6,45 @@
 
 
 }
+
+.caja-icon{
+    padding: 10px 175px;
+    background-color: #47dde5;
+}
+
+.caja-icon i{
+    color: #ffffff;
+}
+
+.section-text h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    justify-content: center;
+
+}
+
+.section-text hr{
+    background-color:#47dde5;
+    height: 2px;
+    width: 100%;
+}
+#parrafos{
+    background-color: black;
+}
+.parrafos{
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+.col-4{
+    padding: 20px 50px;
+    justify-content: center;
+
+}
+
+hr{
+    background-color:#47dde5;
+    height: 2px;
+    width: 100%;
+}
