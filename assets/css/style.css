@@ -49,10 +49,13 @@ hr{
     width: 100%;
 }
 
-#destacados{
+#cards{
     background-color: black;
+padding-bottom: 200px;
 }
 
-.card-body{
-    background-color: #47dde5;
+#cards hr{
+    background-color:#47dde5;
+    height: 2px;
+
 }
