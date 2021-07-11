@@ -1,5 +1,7 @@
 
-
+body{
+    background-color: black;
+}
 
 #header-section{
     height: 100vh;
@@ -16,7 +18,7 @@
     color: #ffffff;
 }
 
-.section-text h4{
+.section-text h2{
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     color: #ffffff;
@@ -58,4 +60,52 @@ padding-bottom: 200px;
     background-color:#47dde5;
     height: 2px;
 
+}
+
+#cards h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    justify-content: center;
+
+}
+
+.card-body{
+    background-color: #47dde5;
+}
+
+#contacto{
+    background-color: black;
+}
+
+#contacto h1{
+    color: #ffffff;
+    font-weight: 400;
+    font-family:'Open Sans', sans-serif ;
+}
+
+.typeform-widget{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.card{
+    padding-left: 50px;
+    background-color: black;
+}
+
+.card-body{
+    color: #ffffff;
+    font-weight: 300;
+    font-family:'Open Sans', sans-serif ;
+
+}
+
+#footer{
+    background-color: #47dde5;
+}
+
+#footer h2{
+
+    font-family:'Open Sans', sans-serif ;
 }
